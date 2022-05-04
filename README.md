@@ -1,2 +1,2 @@
-# game
- game made with raylib
+# Template
+ for raylib
