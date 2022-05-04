@@ -8,10 +8,8 @@ public:
     Game& operator = (const Game& other) = delete;
     ~Game() noexcept;
     bool GameShouldClose() const;
-    
     void Tick();
-    
 private:
-    void Draw();
+    void Draw();  
     void Update();
 };
